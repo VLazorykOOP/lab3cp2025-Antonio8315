@@ -1,0 +1,3 @@
+interface VehicleFactory {
+    String createEngine();
+}
